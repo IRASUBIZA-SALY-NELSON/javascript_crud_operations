@@ -1,0 +1,12 @@
+{
+  "name": "irasubiza_saly_nelson",
+  "version": "1.0.0",
+  "description": "Managing your daily tasks regulary everyday with taskade platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":""
+  },
+  "author": "",
+  "license": "ISC"
+}
